@@ -15,8 +15,5 @@ Afet durumlarında acil tahliye yollarının otomatik olarak açılması ve traf
 - TEKNOFEST Projesi
 - TÜBİTAK Projesi
 
-## 📸 Proje Görselleri
-
-
 ## 👨‍💻 Geliştirici
 Tarık — Yazılım Mühendisliği Öğrencisi
